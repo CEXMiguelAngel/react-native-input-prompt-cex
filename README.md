@@ -1,3 +1,7 @@
+# Note
+
+This is only a fork with some PR applied to tweak transparency
+
 # react-native-input-prompt
 
 A cross-platform input prompt component for React Native.
